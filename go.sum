@@ -1,0 +1,10 @@
+github.com/adithya-sree/commons v0.0.0-20200926083121-a1a668c10ed2 h1:v/H1BHjU+1QRL3Rd3RqsTpQQlfG2Tb0FK9bjECzUbHc=
+github.com/adithya-sree/commons v0.0.0-20200926083121-a1a668c10ed2/go.mod h1:JVZll0k332IIcAJCxH79MfSCNrWP9ZWqNmD9d3qJh/E=
+github.com/adithya-sree/logger v0.0.0-20201003075721-d5683477cb13 h1:mhyUxdWsDnICF2EGrDWEaHHeiZYqK+6xEkYInaTenPA=
+github.com/adithya-sree/logger v0.0.0-20201003075721-d5683477cb13/go.mod h1:rPKN62ZM8Z29MpCjYCBDEh77GhyHJa8HrEQri3tKlJ4=
+github.com/go-chi/chi v4.1.2+incompatible h1:fGFk2Gmi/YKXk0OmGfBh0WgmN3XB8lVnEyNz34tQRec=
+github.com/go-chi/chi v4.1.2+incompatible/go.mod h1:eB3wogJHnLi3x/kFX2A+IbTBlXxmMeXJVKy9tTv1XzQ=
+github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
+github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+gopkg.in/natefinch/lumberjack.v2 v2.0.0 h1:1Lc07Kr7qY4U2YPouBjpCLxpiyxIVoxqXgkXLknAOE8=
+gopkg.in/natefinch/lumberjack.v2 v2.0.0/go.mod h1:l0ndWWf7gzL7RNwBG7wST/UCcT4T24xpD6X8LsfU/+k=
