@@ -47,7 +47,7 @@ func (h Handler) Authenticate(next http.Handler) http.Handler {
 		user, pass, _ := r.BasicAuth()
 		if user != config.Username || pass != config.Password {
 			// Return 401 if Username/Password does not match
-			out.Infof("[%s] - Authentication failed for request", sessionId)
+			out.Infof("[%s] - UnAuthenticated", sessionId)
 			_, _ = commons.RespondError(w, http.StatusUnauthorized, "missing/invalid credentials")
 			return
 		}
